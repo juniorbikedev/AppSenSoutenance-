@@ -1,0 +1,1 @@
+Please provide which project to update (path) and desired BouncyCastle target version. Alternatively grant permission to inspect project files: packages.config, packages.lock.json, *.csproj to locate BouncyCastle references.

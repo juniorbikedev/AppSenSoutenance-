@@ -1,0 +1,54 @@
+﻿using SenSoutenance.Models;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace SenSoutenance.Shared
+{
+    public class FillerList
+    {
+        /// <summary>
+        /// Remplir la liste des années académiques
+        /// </summary>
+        /// <returns>Liste d'éléments Value/Text</returns>
+        public List<ListItem> FillAnneeAcademique()
+        {
+            var laListe = new List<ListItem>();
+
+            // Entrée par défaut
+            laListe.Add(new ListItem
+            {
+                Value = null,
+                Text = "Selectionner"
+            });
+
+            using (var db = new BdSenSoutenanceContext())
+            {
+                var liste = db.anneeAcademiques.ToList();
+
+                if (liste == null || liste.Count == 0)
+                {
+                    return laListe;
+                }
+
+                foreach (var t in liste)
+                {
+                    var id = t?.IdAnneeAcademique;
+                    var libelle = t?.LibelleAnneeAcademique;
+
+                    laListe.Add(new ListItem
+                    {
+                        Value = id != null ? id.ToString() : null,
+                        Text = libelle ?? string.Empty
+                    });
+                }
+            }
+
+            return laListe;
+        }
+    }
+}
+
+

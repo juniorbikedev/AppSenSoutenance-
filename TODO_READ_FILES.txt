@@ -1,0 +1,1 @@
+List files to inspect: packages.config, packages.lock.json, SenSoutenance.csproj, any files referencing Org.BouncyCastle or BouncyCastle.Crypto, NuGet.config. Use read_file to open them.

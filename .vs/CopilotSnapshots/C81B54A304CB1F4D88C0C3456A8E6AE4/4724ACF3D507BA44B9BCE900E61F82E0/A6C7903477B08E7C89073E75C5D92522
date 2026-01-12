@@ -1,0 +1,49 @@
+﻿using SenSoutenance.Models;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace SenSoutenance.Shared
+{
+    public class FillerList
+    {
+        BdSenSoutenanceContext db = new BdSenSoutenanceContext();
+
+        /// <summary>
+        /// Remplir la liste des années académiques
+        /// </summary>
+        /// <returns></returns>
+
+        // Correction : la méthode doit retourner List<ListItem> au lieu de void
+        public List<ListItem> fillAnneeAcademique()
+        {
+            List<ListItem> laListe = new List<ListItem>();
+
+            // Correction : Suppression de l'accès à la propriété 'Profil' qui n'existe pas
+            var liste = db.anneeAcademiques.ToList();
+
+            laListe.Add(new ListItem
+            {
+                Value = null,
+                Text = "Selectionner"
+            });
+
+            foreach (var t in liste)
+            {
+                var item = new ListItem
+                {
+                    Value = t.IdAnneeAcademique.ToString(),
+                    Text = t.LibelleAnneeAcademique.ToString()
+                };
+
+                laListe.Add(item);
+            }
+
+            return laListe;
+        }
+    }
+}
+
+
