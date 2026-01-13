@@ -12,7 +12,7 @@ namespace SenSoutenance.Models
         [Key]
         public int IdAnneeAcademique {  get; set; }
 
-        [Required, MaxLength(10)]
+        [Required, MaxLength(20)]
         public string LibelleAnneeAcademique { get; set; }
 
         [Required]
