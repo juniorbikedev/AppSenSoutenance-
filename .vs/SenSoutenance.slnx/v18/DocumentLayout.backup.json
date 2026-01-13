@@ -3,20 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\HP ELITEBOOK\\source\\repos\\SenSoutenance\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D9F4D992-BFAF-4476-8258-6F2EB7670F32}|SenSoutenance\\AppSenSoutenance.csproj|C:\\Users\\HP ELITEBOOK\\source\\repos\\SenSoutenance\\sensoutenance\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "AbsoluteMoniker": "D:0:0:{D9F4D992-BFAF-4476-8258-6F2EB7670F32}|SenSoutenance\\AppSenSoutenance.csproj|C:\\Users\\HP ELITEBOOK\\source\\repos\\SenSoutenance\\sensoutenance\\models\\bdsensoutenancecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9F4D992-BFAF-4476-8258-6F2EB7670F32}|SenSoutenance\\AppSenSoutenance.csproj|solutionrelative:sensoutenance\\models\\bdsensoutenancecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9F4D992-BFAF-4476-8258-6F2EB7670F32}|SenSoutenance\\AppSenSoutenance.csproj|C:\\Users\\HP ELITEBOOK\\source\\repos\\SenSoutenance\\sensoutenance\\views\\account\\frmutilisateur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9F4D992-BFAF-4476-8258-6F2EB7670F32}|SenSoutenance\\AppSenSoutenance.csproj|solutionrelative:sensoutenance\\views\\account\\frmutilisateur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9F4D992-BFAF-4476-8258-6F2EB7670F32}|SenSoutenance\\AppSenSoutenance.csproj|c:\\users\\hp elitebook\\source\\repos\\sensoutenance\\sensoutenance\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{D9F4D992-BFAF-4476-8258-6F2EB7670F32}|SenSoutenance\\AppSenSoutenance.csproj|solutionrelative:sensoutenance\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D9F4D992-BFAF-4476-8258-6F2EB7670F32}|SenSoutenance\\AppSenSoutenance.csproj|c:\\users\\hp elitebook\\source\\repos\\sensoutenance\\sensoutenance\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{D9F4D992-BFAF-4476-8258-6F2EB7670F32}|SenSoutenance\\AppSenSoutenance.csproj|solutionrelative:sensoutenance\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D9F4D992-BFAF-4476-8258-6F2EB7670F32}|SenSoutenance\\AppSenSoutenance.csproj|c:\\users\\hp elitebook\\source\\repos\\sensoutenance\\sensoutenance\\frmmdi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D9F4D992-BFAF-4476-8258-6F2EB7670F32}|SenSoutenance\\AppSenSoutenance.csproj|C:\\Users\\HP ELITEBOOK\\source\\repos\\SenSoutenance\\sensoutenance\\frmmdi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D9F4D992-BFAF-4476-8258-6F2EB7670F32}|SenSoutenance\\AppSenSoutenance.csproj|solutionrelative:sensoutenance\\frmmdi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D9F4D992-BFAF-4476-8258-6F2EB7670F32}|SenSoutenance\\AppSenSoutenance.csproj|C:\\Users\\HP ELITEBOOK\\source\\repos\\SenSoutenance\\sensoutenance\\models\\bdsensoutenancecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D9F4D992-BFAF-4476-8258-6F2EB7670F32}|SenSoutenance\\AppSenSoutenance.csproj|solutionrelative:sensoutenance\\models\\bdsensoutenancecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D9F4D992-BFAF-4476-8258-6F2EB7670F32}|SenSoutenance\\AppSenSoutenance.csproj|C:\\Users\\HP ELITEBOOK\\source\\repos\\SenSoutenance\\sensoutenance\\models\\professeur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9F4D992-BFAF-4476-8258-6F2EB7670F32}|SenSoutenance\\AppSenSoutenance.csproj|solutionrelative:sensoutenance\\models\\professeur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9F4D992-BFAF-4476-8258-6F2EB7670F32}|SenSoutenance\\AppSenSoutenance.csproj|C:\\Users\\HP ELITEBOOK\\source\\repos\\SenSoutenance\\sensoutenance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9F4D992-BFAF-4476-8258-6F2EB7670F32}|SenSoutenance\\AppSenSoutenance.csproj|solutionrelative:sensoutenance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9F4D992-BFAF-4476-8258-6F2EB7670F32}|SenSoutenance\\AppSenSoutenance.csproj|C:\\Users\\HP ELITEBOOK\\source\\repos\\SenSoutenance\\sensoutenance\\views\\account\\frmutilisateur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D9F4D992-BFAF-4476-8258-6F2EB7670F32}|SenSoutenance\\AppSenSoutenance.csproj|solutionrelative:sensoutenance\\views\\account\\frmutilisateur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9F4D992-BFAF-4476-8258-6F2EB7670F32}|SenSoutenance\\AppSenSoutenance.csproj|C:\\Users\\HP ELITEBOOK\\source\\repos\\SenSoutenance\\sensoutenance\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{D9F4D992-BFAF-4476-8258-6F2EB7670F32}|SenSoutenance\\AppSenSoutenance.csproj|solutionrelative:sensoutenance\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D9F4D992-BFAF-4476-8258-6F2EB7670F32}|SenSoutenance\\AppSenSoutenance.csproj|C:\\Users\\HP ELITEBOOK\\source\\repos\\SenSoutenance\\sensoutenance\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
@@ -33,14 +49,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{D9F4D992-BFAF-4476-8258-6F2EB7670F32}|SenSoutenance\\AppSenSoutenance.csproj|C:\\Users\\HP ELITEBOOK\\source\\repos\\SenSoutenance\\sensoutenance\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D9F4D992-BFAF-4476-8258-6F2EB7670F32}|SenSoutenance\\AppSenSoutenance.csproj|solutionrelative:sensoutenance\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D9F4D992-BFAF-4476-8258-6F2EB7670F32}|SenSoutenance\\AppSenSoutenance.csproj|C:\\Users\\HP ELITEBOOK\\source\\repos\\SenSoutenance\\sensoutenance\\views\\account\\frmutilisateur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D9F4D992-BFAF-4476-8258-6F2EB7670F32}|SenSoutenance\\AppSenSoutenance.csproj|solutionrelative:sensoutenance\\views\\account\\frmutilisateur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D9F4D992-BFAF-4476-8258-6F2EB7670F32}|SenSoutenance\\AppSenSoutenance.csproj|C:\\Users\\HP ELITEBOOK\\source\\repos\\SenSoutenance\\sensoutenance\\views\\account\\frmutilisateur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{D9F4D992-BFAF-4476-8258-6F2EB7670F32}|SenSoutenance\\AppSenSoutenance.csproj|solutionrelative:sensoutenance\\views\\account\\frmutilisateur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D9F4D992-BFAF-4476-8258-6F2EB7670F32}|SenSoutenance\\AppSenSoutenance.csproj|C:\\Users\\HP ELITEBOOK\\source\\repos\\SenSoutenance\\sensoutenance\\models\\utilisateur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -107,20 +115,12 @@
       "RelativeMoniker": "D:0:0:{D9F4D992-BFAF-4476-8258-6F2EB7670F32}|SenSoutenance\\AppSenSoutenance.csproj|solutionrelative:sensoutenance\\models\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D9F4D992-BFAF-4476-8258-6F2EB7670F32}|SenSoutenance\\AppSenSoutenance.csproj|C:\\Users\\HP ELITEBOOK\\source\\repos\\SenSoutenance\\sensoutenance\\models\\professeur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D9F4D992-BFAF-4476-8258-6F2EB7670F32}|SenSoutenance\\AppSenSoutenance.csproj|solutionrelative:sensoutenance\\models\\professeur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D9F4D992-BFAF-4476-8258-6F2EB7670F32}|SenSoutenance\\AppSenSoutenance.csproj|C:\\Users\\HP ELITEBOOK\\source\\repos\\SenSoutenance\\sensoutenance\\views\\parametre\\frmanneeacademique.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D9F4D992-BFAF-4476-8258-6F2EB7670F32}|SenSoutenance\\AppSenSoutenance.csproj|solutionrelative:sensoutenance\\views\\parametre\\frmanneeacademique.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D9F4D992-BFAF-4476-8258-6F2EB7670F32}|SenSoutenance\\AppSenSoutenance.csproj|C:\\Users\\HP ELITEBOOK\\source\\repos\\SenSoutenance\\sensoutenance\\models\\soutenance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D9F4D992-BFAF-4476-8258-6F2EB7670F32}|SenSoutenance\\AppSenSoutenance.csproj|solutionrelative:sensoutenance\\models\\soutenance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D9F4D992-BFAF-4476-8258-6F2EB7670F32}|SenSoutenance\\AppSenSoutenance.csproj|C:\\Users\\HP ELITEBOOK\\source\\repos\\SenSoutenance\\sensoutenance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D9F4D992-BFAF-4476-8258-6F2EB7670F32}|SenSoutenance\\AppSenSoutenance.csproj|solutionrelative:sensoutenance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D9F4D992-BFAF-4476-8258-6F2EB7670F32}|SenSoutenance\\AppSenSoutenance.csproj|C:\\Users\\HP ELITEBOOK\\source\\repos\\SenSoutenance\\sensoutenance\\views\\parametre\\frmprofesseur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
@@ -134,42 +134,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "packages.config",
-              "DocumentMoniker": "C:\\Users\\HP ELITEBOOK\\source\\repos\\SenSoutenance\\SenSoutenance\\packages.config",
-              "RelativeDocumentMoniker": "SenSoutenance\\packages.config",
-              "ToolTip": "C:\\Users\\HP ELITEBOOK\\source\\repos\\SenSoutenance\\SenSoutenance\\packages.config",
-              "RelativeToolTip": "SenSoutenance\\packages.config",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAAABsAAAACAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2026-01-12T00:00:39.192Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\HP ELITEBOOK\\source\\repos\\SenSoutenance\\SenSoutenance\\Form1.cs",
-              "RelativeDocumentMoniker": "SenSoutenance\\Form1.cs",
-              "ToolTip": "C:\\Users\\HP ELITEBOOK\\source\\repos\\SenSoutenance\\SenSoutenance\\Form1.cs",
-              "RelativeToolTip": "SenSoutenance\\Form1.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAEwBYAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-05T16:05:51.547Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "App.config",
               "DocumentMoniker": "C:\\Users\\HP ELITEBOOK\\source\\repos\\SenSoutenance\\SenSoutenance\\App.config",
               "RelativeDocumentMoniker": "SenSoutenance\\App.config",
               "ToolTip": "C:\\Users\\HP ELITEBOOK\\source\\repos\\SenSoutenance\\SenSoutenance\\App.config",
               "RelativeToolTip": "SenSoutenance\\App.config",
-              "ViewState": "AgIAAC4AAAAAAAAAAAAgwEAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAAAGIAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
               "WhenOpened": "2026-01-11T18:48:59.629Z",
               "EditorCaption": ""
@@ -177,35 +152,12 @@
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "BdSenSoutenanceContext.cs",
-              "DocumentMoniker": "C:\\Users\\HP ELITEBOOK\\source\\repos\\SenSoutenance\\SenSoutenance\\Models\\BdSenSoutenanceContext.cs",
-              "RelativeDocumentMoniker": "SenSoutenance\\Models\\BdSenSoutenanceContext.cs",
-              "ToolTip": "C:\\Users\\HP ELITEBOOK\\source\\repos\\SenSoutenance\\SenSoutenance\\Models\\BdSenSoutenanceContext.cs",
-              "RelativeToolTip": "SenSoutenance\\Models\\BdSenSoutenanceContext.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAAwA4AAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-05T19:24:00.415Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\HP ELITEBOOK\\source\\repos\\SenSoutenance\\SenSoutenance\\Form1.cs",
-              "RelativeDocumentMoniker": "SenSoutenance\\Form1.cs",
-              "ToolTip": "C:\\Users\\HP ELITEBOOK\\source\\repos\\SenSoutenance\\SenSoutenance\\Form1.cs [Design]",
-              "RelativeToolTip": "SenSoutenance\\Form1.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-22T19:51:07.734Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "frmMDI.cs",
               "DocumentMoniker": "C:\\Users\\HP ELITEBOOK\\source\\repos\\SenSoutenance\\SenSoutenance\\frmMDI.cs",
               "RelativeDocumentMoniker": "SenSoutenance\\frmMDI.cs",
               "ToolTip": "C:\\Users\\HP ELITEBOOK\\source\\repos\\SenSoutenance\\SenSoutenance\\frmMDI.cs",
               "RelativeToolTip": "SenSoutenance\\frmMDI.cs",
-              "ViewState": "AgIAAFsAAAAAAAAAAAAuwGcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAFIAAAAAAAAAAAASwGAAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-05T16:07:01.993Z",
               "EditorCaption": ""
@@ -213,242 +165,6 @@
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\HP ELITEBOOK\\source\\repos\\SenSoutenance\\SenSoutenance\\Form1.cs",
-              "RelativeDocumentMoniker": "SenSoutenance\\Form1.cs",
-              "ToolTip": "C:\\Users\\HP ELITEBOOK\\source\\repos\\SenSoutenance\\SenSoutenance\\Form1.cs [Design]",
-              "RelativeToolTip": "SenSoutenance\\Form1.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-11T21:48:02.127Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "frmMDI.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\HP ELITEBOOK\\source\\repos\\SenSoutenance\\SenSoutenance\\frmMDI.cs",
-              "RelativeDocumentMoniker": "SenSoutenance\\frmMDI.cs",
-              "ToolTip": "C:\\Users\\HP ELITEBOOK\\source\\repos\\SenSoutenance\\SenSoutenance\\frmMDI.cs [Design]",
-              "RelativeToolTip": "SenSoutenance\\frmMDI.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-05T15:55:08.293Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "frmUtilisateur.cs",
-              "DocumentMoniker": "C:\\Users\\HP ELITEBOOK\\source\\repos\\SenSoutenance\\SenSoutenance\\Views\\Account\\frmUtilisateur.cs",
-              "RelativeDocumentMoniker": "SenSoutenance\\Views\\Account\\frmUtilisateur.cs",
-              "ToolTip": "C:\\Users\\HP ELITEBOOK\\source\\repos\\SenSoutenance\\SenSoutenance\\Views\\Account\\frmUtilisateur.cs",
-              "RelativeToolTip": "SenSoutenance\\Views\\Account\\frmUtilisateur.cs",
-              "ViewState": "AgIAABoAAAAAAAAAAAAuwCgAAACEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-11T21:18:01.616Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "frmUtilisateur.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\HP ELITEBOOK\\source\\repos\\SenSoutenance\\SenSoutenance\\Views\\Account\\frmUtilisateur.cs",
-              "RelativeDocumentMoniker": "SenSoutenance\\Views\\Account\\frmUtilisateur.cs",
-              "ToolTip": "C:\\Users\\HP ELITEBOOK\\source\\repos\\SenSoutenance\\SenSoutenance\\Views\\Account\\frmUtilisateur.cs [Design]",
-              "RelativeToolTip": "SenSoutenance\\Views\\Account\\frmUtilisateur.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-11T20:22:48.102Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Utilisateur.cs",
-              "DocumentMoniker": "C:\\Users\\HP ELITEBOOK\\source\\repos\\SenSoutenance\\SenSoutenance\\Models\\Utilisateur.cs",
-              "RelativeDocumentMoniker": "SenSoutenance\\Models\\Utilisateur.cs",
-              "ToolTip": "C:\\Users\\HP ELITEBOOK\\source\\repos\\SenSoutenance\\SenSoutenance\\Models\\Utilisateur.cs",
-              "RelativeToolTip": "SenSoutenance\\Models\\Utilisateur.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAYwBgAAAAyAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-06T13:27:33.965Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "ChefDepartement.cs",
-              "DocumentMoniker": "C:\\Users\\HP ELITEBOOK\\source\\repos\\SenSoutenance\\SenSoutenance\\Models\\ChefDepartement.cs",
-              "RelativeDocumentMoniker": "SenSoutenance\\Models\\ChefDepartement.cs",
-              "ToolTip": "C:\\Users\\HP ELITEBOOK\\source\\repos\\SenSoutenance\\SenSoutenance\\Models\\ChefDepartement.cs",
-              "RelativeToolTip": "SenSoutenance\\Models\\ChefDepartement.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAqwBAAAABIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-06T13:40:06.351Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Configuration.cs",
-              "DocumentMoniker": "C:\\Users\\HP ELITEBOOK\\source\\repos\\SenSoutenance\\SenSoutenance\\Migrations\\Configuration.cs",
-              "RelativeDocumentMoniker": "SenSoutenance\\Migrations\\Configuration.cs",
-              "ToolTip": "C:\\Users\\HP ELITEBOOK\\source\\repos\\SenSoutenance\\SenSoutenance\\Migrations\\Configuration.cs",
-              "RelativeToolTip": "SenSoutenance\\Migrations\\Configuration.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAA2AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-11T19:55:00.685Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "FillerList.cs",
-              "DocumentMoniker": "C:\\Users\\HP ELITEBOOK\\source\\repos\\SenSoutenance\\SenSoutenance\\Shared\\FillerList.cs",
-              "RelativeDocumentMoniker": "SenSoutenance\\Shared\\FillerList.cs",
-              "ToolTip": "C:\\Users\\HP ELITEBOOK\\source\\repos\\SenSoutenance\\SenSoutenance\\Shared\\FillerList.cs",
-              "RelativeToolTip": "SenSoutenance\\Shared\\FillerList.cs",
-              "ViewState": "AgIAAC4AAAAAAAAAAAAQwAsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-06T14:41:52.051Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Crypted.cs",
-              "DocumentMoniker": "C:\\Users\\HP ELITEBOOK\\source\\repos\\SenSoutenance\\SenSoutenance\\Shared\\Crypted.cs",
-              "RelativeDocumentMoniker": "SenSoutenance\\Shared\\Crypted.cs",
-              "ToolTip": "C:\\Users\\HP ELITEBOOK\\source\\repos\\SenSoutenance\\SenSoutenance\\Shared\\Crypted.cs",
-              "RelativeToolTip": "SenSoutenance\\Shared\\Crypted.cs",
-              "ViewState": "AgIAABkAAAAAAAAAAAAQwCEAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-11T13:56:35.189Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "frmSession.cs",
-              "DocumentMoniker": "C:\\Users\\HP ELITEBOOK\\source\\repos\\SenSoutenance\\SenSoutenance\\Views\\Parametre\\frmSession.cs",
-              "RelativeDocumentMoniker": "SenSoutenance\\Views\\Parametre\\frmSession.cs",
-              "ToolTip": "C:\\Users\\HP ELITEBOOK\\source\\repos\\SenSoutenance\\SenSoutenance\\Views\\Parametre\\frmSession.cs",
-              "RelativeToolTip": "SenSoutenance\\Views\\Parametre\\frmSession.cs",
-              "ViewState": "AgIAAE4AAAAAAAAAAADwvyYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-06T14:09:12.24Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "frmAnneeAcademique.cs",
-              "DocumentMoniker": "C:\\Users\\HP ELITEBOOK\\source\\repos\\SenSoutenance\\SenSoutenance\\Views\\Parametre\\frmAnneeAcademique.cs",
-              "RelativeDocumentMoniker": "SenSoutenance\\Views\\Parametre\\frmAnneeAcademique.cs",
-              "ToolTip": "C:\\Users\\HP ELITEBOOK\\source\\repos\\SenSoutenance\\SenSoutenance\\Views\\Parametre\\frmAnneeAcademique.cs",
-              "RelativeToolTip": "SenSoutenance\\Views\\Parametre\\frmAnneeAcademique.cs",
-              "ViewState": "AgIAAD8AAAAAAAAAAAAjwBcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-06T03:06:47.216Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "ListItem.cs",
-              "DocumentMoniker": "C:\\Users\\HP ELITEBOOK\\source\\repos\\SenSoutenance\\SenSoutenance\\Shared\\ListItem.cs",
-              "RelativeDocumentMoniker": "SenSoutenance\\Shared\\ListItem.cs",
-              "ToolTip": "C:\\Users\\HP ELITEBOOK\\source\\repos\\SenSoutenance\\SenSoutenance\\Shared\\ListItem.cs",
-              "RelativeToolTip": "SenSoutenance\\Shared\\ListItem.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-11T19:40:30.864Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "Candidat.cs",
-              "DocumentMoniker": "C:\\Users\\HP ELITEBOOK\\source\\repos\\SenSoutenance\\SenSoutenance\\Models\\Candidat.cs",
-              "RelativeDocumentMoniker": "SenSoutenance\\Models\\Candidat.cs",
-              "ToolTip": "C:\\Users\\HP ELITEBOOK\\source\\repos\\SenSoutenance\\SenSoutenance\\Models\\Candidat.cs",
-              "RelativeToolTip": "SenSoutenance\\Models\\Candidat.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-06T13:43:38.912Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "Memoire.cs",
-              "DocumentMoniker": "C:\\Users\\HP ELITEBOOK\\source\\repos\\SenSoutenance\\SenSoutenance\\Models\\Memoire.cs",
-              "RelativeDocumentMoniker": "SenSoutenance\\Models\\Memoire.cs",
-              "ToolTip": "C:\\Users\\HP ELITEBOOK\\source\\repos\\SenSoutenance\\SenSoutenance\\Models\\Memoire.cs",
-              "RelativeToolTip": "SenSoutenance\\Models\\Memoire.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAzwBgAAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-06T02:08:18.968Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "frmSession.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\HP ELITEBOOK\\source\\repos\\SenSoutenance\\SenSoutenance\\Views\\Parametre\\frmSession.cs",
-              "RelativeDocumentMoniker": "SenSoutenance\\Views\\Parametre\\frmSession.cs",
-              "ToolTip": "C:\\Users\\HP ELITEBOOK\\source\\repos\\SenSoutenance\\SenSoutenance\\Views\\Parametre\\frmSession.cs [Design]",
-              "RelativeToolTip": "SenSoutenance\\Views\\Parametre\\frmSession.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-05T16:14:04.827Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "Session.cs",
-              "DocumentMoniker": "C:\\Users\\HP ELITEBOOK\\source\\repos\\SenSoutenance\\SenSoutenance\\Models\\Session.cs",
-              "RelativeDocumentMoniker": "SenSoutenance\\Models\\Session.cs",
-              "ToolTip": "C:\\Users\\HP ELITEBOOK\\source\\repos\\SenSoutenance\\SenSoutenance\\Models\\Session.cs",
-              "RelativeToolTip": "SenSoutenance\\Models\\Session.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABYAAABEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-06T02:08:29.092Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "ListItem.cs",
-              "DocumentMoniker": "C:\\Users\\HP ELITEBOOK\\source\\repos\\SenSoutenance\\SenSoutenance\\Models\\ListItem.cs",
-              "RelativeDocumentMoniker": "SenSoutenance\\Models\\ListItem.cs",
-              "ToolTip": "C:\\Users\\HP ELITEBOOK\\source\\repos\\SenSoutenance\\SenSoutenance\\Models\\ListItem.cs",
-              "RelativeToolTip": "SenSoutenance\\Models\\ListItem.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-06T15:18:29.629Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "frmAnneeAcademique.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\HP ELITEBOOK\\source\\repos\\SenSoutenance\\SenSoutenance\\Views\\Parametre\\frmAnneeAcademique.cs",
-              "RelativeDocumentMoniker": "SenSoutenance\\Views\\Parametre\\frmAnneeAcademique.cs",
-              "ToolTip": "C:\\Users\\HP ELITEBOOK\\source\\repos\\SenSoutenance\\SenSoutenance\\Views\\Parametre\\frmAnneeAcademique.cs [Design]",
-              "RelativeToolTip": "SenSoutenance\\Views\\Parametre\\frmAnneeAcademique.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-05T16:13:49.366Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "Departement.cs",
-              "DocumentMoniker": "C:\\Users\\HP ELITEBOOK\\source\\repos\\SenSoutenance\\SenSoutenance\\Models\\Departement.cs",
-              "RelativeDocumentMoniker": "SenSoutenance\\Models\\Departement.cs",
-              "ToolTip": "C:\\Users\\HP ELITEBOOK\\source\\repos\\SenSoutenance\\SenSoutenance\\Models\\Departement.cs",
-              "RelativeToolTip": "SenSoutenance\\Models\\Departement.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAmwA8AAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-06T13:56:29.91Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "Admin.cs",
-              "DocumentMoniker": "C:\\Users\\HP ELITEBOOK\\source\\repos\\SenSoutenance\\SenSoutenance\\Models\\Admin.cs",
-              "RelativeDocumentMoniker": "SenSoutenance\\Models\\Admin.cs",
-              "ToolTip": "C:\\Users\\HP ELITEBOOK\\source\\repos\\SenSoutenance\\SenSoutenance\\Models\\Admin.cs",
-              "RelativeToolTip": "SenSoutenance\\Models\\Admin.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-06T13:45:27.097Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
               "Title": "Professeur.cs",
               "DocumentMoniker": "C:\\Users\\HP ELITEBOOK\\source\\repos\\SenSoutenance\\SenSoutenance\\Models\\Professeur.cs",
               "RelativeDocumentMoniker": "SenSoutenance\\Models\\Professeur.cs",
@@ -460,7 +176,305 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP ELITEBOOK\\source\\repos\\SenSoutenance\\SenSoutenance\\Program.cs",
+              "RelativeDocumentMoniker": "SenSoutenance\\Program.cs",
+              "ToolTip": "C:\\Users\\HP ELITEBOOK\\source\\repos\\SenSoutenance\\SenSoutenance\\Program.cs",
+              "RelativeToolTip": "SenSoutenance\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T16:17:17.456Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BdSenSoutenanceContext.cs",
+              "DocumentMoniker": "C:\\Users\\HP ELITEBOOK\\source\\repos\\SenSoutenance\\SenSoutenance\\Models\\BdSenSoutenanceContext.cs",
+              "RelativeDocumentMoniker": "SenSoutenance\\Models\\BdSenSoutenanceContext.cs",
+              "ToolTip": "C:\\Users\\HP ELITEBOOK\\source\\repos\\SenSoutenance\\SenSoutenance\\Models\\BdSenSoutenanceContext.cs",
+              "RelativeToolTip": "SenSoutenance\\Models\\BdSenSoutenanceContext.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwCQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T19:24:00.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmUtilisateur.cs",
+              "DocumentMoniker": "C:\\Users\\HP ELITEBOOK\\source\\repos\\SenSoutenance\\SenSoutenance\\Views\\Account\\frmUtilisateur.cs",
+              "RelativeDocumentMoniker": "SenSoutenance\\Views\\Account\\frmUtilisateur.cs",
+              "ToolTip": "C:\\Users\\HP ELITEBOOK\\source\\repos\\SenSoutenance\\SenSoutenance\\Views\\Account\\frmUtilisateur.cs",
+              "RelativeToolTip": "SenSoutenance\\Views\\Account\\frmUtilisateur.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAASwCQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-11T21:18:01.616Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "frmUtilisateur.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\HP ELITEBOOK\\source\\repos\\SenSoutenance\\SenSoutenance\\Views\\Account\\frmUtilisateur.cs",
+              "RelativeDocumentMoniker": "SenSoutenance\\Views\\Account\\frmUtilisateur.cs",
+              "ToolTip": "C:\\Users\\HP ELITEBOOK\\source\\repos\\SenSoutenance\\SenSoutenance\\Views\\Account\\frmUtilisateur.cs [Design]",
+              "RelativeToolTip": "SenSoutenance\\Views\\Account\\frmUtilisateur.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-11T20:22:48.102Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\HP ELITEBOOK\\source\\repos\\SenSoutenance\\SenSoutenance\\Form1.cs",
+              "RelativeDocumentMoniker": "SenSoutenance\\Form1.cs",
+              "ToolTip": "C:\\Users\\HP ELITEBOOK\\source\\repos\\SenSoutenance\\SenSoutenance\\Form1.cs [Design]",
+              "RelativeToolTip": "SenSoutenance\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T19:51:07.734Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\HP ELITEBOOK\\source\\repos\\SenSoutenance\\SenSoutenance\\Form1.cs",
+              "RelativeDocumentMoniker": "SenSoutenance\\Form1.cs",
+              "ToolTip": "C:\\Users\\HP ELITEBOOK\\source\\repos\\SenSoutenance\\SenSoutenance\\Form1.cs",
+              "RelativeToolTip": "SenSoutenance\\Form1.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAEwBYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T16:05:51.547Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "packages.config",
+              "DocumentMoniker": "C:\\Users\\HP ELITEBOOK\\source\\repos\\SenSoutenance\\SenSoutenance\\packages.config",
+              "RelativeDocumentMoniker": "SenSoutenance\\packages.config",
+              "ToolTip": "C:\\Users\\HP ELITEBOOK\\source\\repos\\SenSoutenance\\SenSoutenance\\packages.config",
+              "RelativeToolTip": "SenSoutenance\\packages.config",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAABsAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-01-12T00:00:39.192Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\HP ELITEBOOK\\source\\repos\\SenSoutenance\\SenSoutenance\\Form1.cs",
+              "RelativeDocumentMoniker": "SenSoutenance\\Form1.cs",
+              "ToolTip": "C:\\Users\\HP ELITEBOOK\\source\\repos\\SenSoutenance\\SenSoutenance\\Form1.cs [Design]",
+              "RelativeToolTip": "SenSoutenance\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-11T21:48:02.127Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "frmMDI.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\HP ELITEBOOK\\source\\repos\\SenSoutenance\\SenSoutenance\\frmMDI.cs",
+              "RelativeDocumentMoniker": "SenSoutenance\\frmMDI.cs",
+              "ToolTip": "C:\\Users\\HP ELITEBOOK\\source\\repos\\SenSoutenance\\SenSoutenance\\frmMDI.cs [Design]",
+              "RelativeToolTip": "SenSoutenance\\frmMDI.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T15:55:08.293Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Utilisateur.cs",
+              "DocumentMoniker": "C:\\Users\\HP ELITEBOOK\\source\\repos\\SenSoutenance\\SenSoutenance\\Models\\Utilisateur.cs",
+              "RelativeDocumentMoniker": "SenSoutenance\\Models\\Utilisateur.cs",
+              "ToolTip": "C:\\Users\\HP ELITEBOOK\\source\\repos\\SenSoutenance\\SenSoutenance\\Models\\Utilisateur.cs",
+              "RelativeToolTip": "SenSoutenance\\Models\\Utilisateur.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwBgAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-06T13:27:33.965Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ChefDepartement.cs",
+              "DocumentMoniker": "C:\\Users\\HP ELITEBOOK\\source\\repos\\SenSoutenance\\SenSoutenance\\Models\\ChefDepartement.cs",
+              "RelativeDocumentMoniker": "SenSoutenance\\Models\\ChefDepartement.cs",
+              "ToolTip": "C:\\Users\\HP ELITEBOOK\\source\\repos\\SenSoutenance\\SenSoutenance\\Models\\ChefDepartement.cs",
+              "RelativeToolTip": "SenSoutenance\\Models\\ChefDepartement.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAqwBAAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-06T13:40:06.351Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Configuration.cs",
+              "DocumentMoniker": "C:\\Users\\HP ELITEBOOK\\source\\repos\\SenSoutenance\\SenSoutenance\\Migrations\\Configuration.cs",
+              "RelativeDocumentMoniker": "SenSoutenance\\Migrations\\Configuration.cs",
+              "ToolTip": "C:\\Users\\HP ELITEBOOK\\source\\repos\\SenSoutenance\\SenSoutenance\\Migrations\\Configuration.cs",
+              "RelativeToolTip": "SenSoutenance\\Migrations\\Configuration.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-11T19:55:00.685Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "FillerList.cs",
+              "DocumentMoniker": "C:\\Users\\HP ELITEBOOK\\source\\repos\\SenSoutenance\\SenSoutenance\\Shared\\FillerList.cs",
+              "RelativeDocumentMoniker": "SenSoutenance\\Shared\\FillerList.cs",
+              "ToolTip": "C:\\Users\\HP ELITEBOOK\\source\\repos\\SenSoutenance\\SenSoutenance\\Shared\\FillerList.cs",
+              "RelativeToolTip": "SenSoutenance\\Shared\\FillerList.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAQwAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-06T14:41:52.051Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Crypted.cs",
+              "DocumentMoniker": "C:\\Users\\HP ELITEBOOK\\source\\repos\\SenSoutenance\\SenSoutenance\\Shared\\Crypted.cs",
+              "RelativeDocumentMoniker": "SenSoutenance\\Shared\\Crypted.cs",
+              "ToolTip": "C:\\Users\\HP ELITEBOOK\\source\\repos\\SenSoutenance\\SenSoutenance\\Shared\\Crypted.cs",
+              "RelativeToolTip": "SenSoutenance\\Shared\\Crypted.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwCEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-11T13:56:35.189Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "frmSession.cs",
+              "DocumentMoniker": "C:\\Users\\HP ELITEBOOK\\source\\repos\\SenSoutenance\\SenSoutenance\\Views\\Parametre\\frmSession.cs",
+              "RelativeDocumentMoniker": "SenSoutenance\\Views\\Parametre\\frmSession.cs",
+              "ToolTip": "C:\\Users\\HP ELITEBOOK\\source\\repos\\SenSoutenance\\SenSoutenance\\Views\\Parametre\\frmSession.cs",
+              "RelativeToolTip": "SenSoutenance\\Views\\Parametre\\frmSession.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAADwvyYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-06T14:09:12.24Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "frmAnneeAcademique.cs",
+              "DocumentMoniker": "C:\\Users\\HP ELITEBOOK\\source\\repos\\SenSoutenance\\SenSoutenance\\Views\\Parametre\\frmAnneeAcademique.cs",
+              "RelativeDocumentMoniker": "SenSoutenance\\Views\\Parametre\\frmAnneeAcademique.cs",
+              "ToolTip": "C:\\Users\\HP ELITEBOOK\\source\\repos\\SenSoutenance\\SenSoutenance\\Views\\Parametre\\frmAnneeAcademique.cs",
+              "RelativeToolTip": "SenSoutenance\\Views\\Parametre\\frmAnneeAcademique.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAjwBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-06T03:06:47.216Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ListItem.cs",
+              "DocumentMoniker": "C:\\Users\\HP ELITEBOOK\\source\\repos\\SenSoutenance\\SenSoutenance\\Shared\\ListItem.cs",
+              "RelativeDocumentMoniker": "SenSoutenance\\Shared\\ListItem.cs",
+              "ToolTip": "C:\\Users\\HP ELITEBOOK\\source\\repos\\SenSoutenance\\SenSoutenance\\Shared\\ListItem.cs",
+              "RelativeToolTip": "SenSoutenance\\Shared\\ListItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-11T19:40:30.864Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Candidat.cs",
+              "DocumentMoniker": "C:\\Users\\HP ELITEBOOK\\source\\repos\\SenSoutenance\\SenSoutenance\\Models\\Candidat.cs",
+              "RelativeDocumentMoniker": "SenSoutenance\\Models\\Candidat.cs",
+              "ToolTip": "C:\\Users\\HP ELITEBOOK\\source\\repos\\SenSoutenance\\SenSoutenance\\Models\\Candidat.cs",
+              "RelativeToolTip": "SenSoutenance\\Models\\Candidat.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-06T13:43:38.912Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Memoire.cs",
+              "DocumentMoniker": "C:\\Users\\HP ELITEBOOK\\source\\repos\\SenSoutenance\\SenSoutenance\\Models\\Memoire.cs",
+              "RelativeDocumentMoniker": "SenSoutenance\\Models\\Memoire.cs",
+              "ToolTip": "C:\\Users\\HP ELITEBOOK\\source\\repos\\SenSoutenance\\SenSoutenance\\Models\\Memoire.cs",
+              "RelativeToolTip": "SenSoutenance\\Models\\Memoire.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAzwBgAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-06T02:08:18.968Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "frmSession.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\HP ELITEBOOK\\source\\repos\\SenSoutenance\\SenSoutenance\\Views\\Parametre\\frmSession.cs",
+              "RelativeDocumentMoniker": "SenSoutenance\\Views\\Parametre\\frmSession.cs",
+              "ToolTip": "C:\\Users\\HP ELITEBOOK\\source\\repos\\SenSoutenance\\SenSoutenance\\Views\\Parametre\\frmSession.cs [Design]",
+              "RelativeToolTip": "SenSoutenance\\Views\\Parametre\\frmSession.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T16:14:04.827Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Session.cs",
+              "DocumentMoniker": "C:\\Users\\HP ELITEBOOK\\source\\repos\\SenSoutenance\\SenSoutenance\\Models\\Session.cs",
+              "RelativeDocumentMoniker": "SenSoutenance\\Models\\Session.cs",
+              "ToolTip": "C:\\Users\\HP ELITEBOOK\\source\\repos\\SenSoutenance\\SenSoutenance\\Models\\Session.cs",
+              "RelativeToolTip": "SenSoutenance\\Models\\Session.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABYAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-06T02:08:29.092Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ListItem.cs",
+              "DocumentMoniker": "C:\\Users\\HP ELITEBOOK\\source\\repos\\SenSoutenance\\SenSoutenance\\Models\\ListItem.cs",
+              "RelativeDocumentMoniker": "SenSoutenance\\Models\\ListItem.cs",
+              "ToolTip": "C:\\Users\\HP ELITEBOOK\\source\\repos\\SenSoutenance\\SenSoutenance\\Models\\ListItem.cs",
+              "RelativeToolTip": "SenSoutenance\\Models\\ListItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-06T15:18:29.629Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "frmAnneeAcademique.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\HP ELITEBOOK\\source\\repos\\SenSoutenance\\SenSoutenance\\Views\\Parametre\\frmAnneeAcademique.cs",
+              "RelativeDocumentMoniker": "SenSoutenance\\Views\\Parametre\\frmAnneeAcademique.cs",
+              "ToolTip": "C:\\Users\\HP ELITEBOOK\\source\\repos\\SenSoutenance\\SenSoutenance\\Views\\Parametre\\frmAnneeAcademique.cs [Design]",
+              "RelativeToolTip": "SenSoutenance\\Views\\Parametre\\frmAnneeAcademique.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T16:13:49.366Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Departement.cs",
+              "DocumentMoniker": "C:\\Users\\HP ELITEBOOK\\source\\repos\\SenSoutenance\\SenSoutenance\\Models\\Departement.cs",
+              "RelativeDocumentMoniker": "SenSoutenance\\Models\\Departement.cs",
+              "ToolTip": "C:\\Users\\HP ELITEBOOK\\source\\repos\\SenSoutenance\\SenSoutenance\\Models\\Departement.cs",
+              "RelativeToolTip": "SenSoutenance\\Models\\Departement.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAmwA8AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-06T13:56:29.91Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 27,
+              "Title": "Admin.cs",
+              "DocumentMoniker": "C:\\Users\\HP ELITEBOOK\\source\\repos\\SenSoutenance\\SenSoutenance\\Models\\Admin.cs",
+              "RelativeDocumentMoniker": "SenSoutenance\\Models\\Admin.cs",
+              "ToolTip": "C:\\Users\\HP ELITEBOOK\\source\\repos\\SenSoutenance\\SenSoutenance\\Models\\Admin.cs",
+              "RelativeToolTip": "SenSoutenance\\Models\\Admin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-06T13:45:27.097Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
               "Title": "frmAnneeAcademique.Designer.cs",
               "DocumentMoniker": "C:\\Users\\HP ELITEBOOK\\source\\repos\\SenSoutenance\\SenSoutenance\\Views\\Parametre\\frmAnneeAcademique.Designer.cs",
               "RelativeDocumentMoniker": "SenSoutenance\\Views\\Parametre\\frmAnneeAcademique.Designer.cs",
@@ -472,7 +486,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 29,
               "Title": "Soutenance.cs",
               "DocumentMoniker": "C:\\Users\\HP ELITEBOOK\\source\\repos\\SenSoutenance\\SenSoutenance\\Models\\Soutenance.cs",
               "RelativeDocumentMoniker": "SenSoutenance\\Models\\Soutenance.cs",
@@ -481,18 +495,6 @@
               "ViewState": "AgIAABYAAAAAAAAAAAA3wCAAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-06T02:08:53.57Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\HP ELITEBOOK\\source\\repos\\SenSoutenance\\SenSoutenance\\Program.cs",
-              "RelativeDocumentMoniker": "SenSoutenance\\Program.cs",
-              "ToolTip": "C:\\Users\\HP ELITEBOOK\\source\\repos\\SenSoutenance\\SenSoutenance\\Program.cs",
-              "RelativeToolTip": "SenSoutenance\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-05T16:17:17.456Z"
             },
             {
               "$type": "Document",

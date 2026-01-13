@@ -9,6 +9,8 @@ using System.Security.Cryptography;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using System.Data.Entity;
+using MySql.Data.EntityFramework; 
 
 namespace SenSoutenance.Views.Account
 {
@@ -18,7 +20,8 @@ namespace SenSoutenance.Views.Account
         {
             InitializeComponent();
         }
-            BdSenSoutenanceContext db = new BdSenSoutenanceContext();
+        
+        BdSenSoutenanceContext db = new BdSenSoutenanceContext();
         private void btnAjouter_Click(object sender, EventArgs e)
         {
             Candidat candidat = new Candidat();
@@ -41,5 +44,9 @@ namespace SenSoutenance.Views.Account
                  a => new { a.IdUtilisateur, a.NomUtilisateur, a.PrenomUtilisateur, a.EmailUtilisateur, a.TelUtilisateur}).ToList();
         }
 
+        private void frmUtilisateur_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

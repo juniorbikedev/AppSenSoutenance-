@@ -11,7 +11,7 @@ using Microsoft.VisualBasic.Devices;
 using SenSoutenance.Views;
 using SenSoutenance.Views.Account;
 using SenSoutenance.Views.Parametre;
-
+using System.Data.Entity;
 namespace SenSoutenance
 {
     public partial class frmMDI : Form
